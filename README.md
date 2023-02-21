@@ -1,1 +1,1 @@
-# MRI-Tumor-Segmentation
+# MRI-Brain-tumor-Segmentation
